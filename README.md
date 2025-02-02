@@ -17,9 +17,9 @@
 - 🔭 I'm a FullStack Software Engineer.
 - 🎓 I studied **Computer Science** and **Software Engineering**.
 - 🌐 All of my projects are available at: [GitHub Profile](https://github.com/SharonMawiaJohn)
-- 💬 Let's talk about **Software Development, Databases, and Web Technologies**.
-- 📩 Email me: sharonmawiajohn@example.com *(Replace with your email if needed)*
-- ⚡ Fun fact: I love solving problems using tech.
+- 💬 Let's talk about **Software Development, Cloud Computing, Databases, and Web Technologies**.
+- 📩 Email me: sharonmawia76@gmail.com 
+- ⚡ Fun fact: I love dark mode because light mode attracts bugs! 😆.
 
 ---
 
