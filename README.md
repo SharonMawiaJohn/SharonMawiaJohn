@@ -1,6 +1,6 @@
 # Hi There 👋, I'm Sharon Mawia John
 
-*A passionate and skilled software engineer, certified and always learning...*
+*A passionate and skilled software engineer, certified and always learning..*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SharonMawiaJohn&label=Profile%20views&color=0e75b6&style=flat)
 
