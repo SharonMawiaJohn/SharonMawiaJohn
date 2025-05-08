@@ -37,7 +37,7 @@
 
 ## ⚙️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,django,postgres,mysql,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,django,postgres,mysql,linux,git,github,flask,postgres,sqlite,jwt,json" />
 </p>
 
 ---
