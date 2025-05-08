@@ -19,7 +19,7 @@
 - 🌐 All of my projects are available at: [GitHub Profile](https://github.com/SharonMawiaJohn)
 - 💬 Let's talk about **Software Development, Cloud Computing, Databases, and Web Technologies**.
 - 📩 Email me: sharonmawia76@gmail.com 
-- ⚡ Fun fact: I love dark mode because light attracts bugs! 😆.
+- ⚡ Fun fact: I love dark mode because light attracts bugs! 😆
 
 ---
 
